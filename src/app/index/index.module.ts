@@ -1,16 +1,16 @@
 import { NgModule } from '@angular/core';
 import { RouterModule } from '@angular/router';
-import { MediaComponent } from './media.component';
+import { IndexComponent } from './index.component';
 
 @NgModule({
-  declarations: [MediaComponent],
+  declarations: [IndexComponent],
   imports: [
     RouterModule.forChild([
       {
         path: '',
-        component: MediaComponent
+        component: IndexComponent
       }
     ])
   ]
 })
-export class MediaModule {}
+export class IndexModule {}
