@@ -1,6 +1,7 @@
-# Guess-Angular
+# 🔮 Guess-Angular
 
-This is a example for using predictive prefetching w/ Angular.js and Guess.js - more on the topic :
+This is a example for using predictive prefetching w/ Angular.js and Guess.js - more on the topic in the video below.
+
 [![Watch the video](https://i.ytimg.com/vi/0jB4YWgAxUo/maxresdefault.jpg)](https://www.youtube.com/watch?v=0jB4YWgAxUo&feature=emb_title) 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
